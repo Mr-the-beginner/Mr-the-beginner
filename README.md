@@ -2,16 +2,13 @@
 
 <img src="https://skillicons.dev/icons?i=js,c,rust,bash,py,lua&theme=dark" alt="skills" />
 
-
 ## 🔧 My Tools :
 
 [![git, obsidian,vscode](https://skillicons.dev/icons?i=git,github,obsidian,vscode,linux)](https://skillicons.dev)
 
-
 ## 💡 A Quote:
 
 [![A random quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-
 
 ## 📊 GitHub Stats
 
@@ -57,8 +54,6 @@
     </tr>
   </table>
 </div>
-
-
 
 ## 🐍 Contribution Snake
 
