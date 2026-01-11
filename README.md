@@ -18,13 +18,47 @@
 <div align="center">
   <table>
     <tr>
-      <td><img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mr-the-beginner&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" loading="eager" fetchpriority="high" /></td>
+      <td>
+        <img
+          width="100%"
+          src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mr-the-beginner&show_icons=true&theme=tokyonight&hide_border=true"
+          alt="GitHub Stats"
+          loading="eager"
+          fetchpriority="high"
+        />
+      </td>
+      <td align="center">
+        <img
+          width="100%"
+          src="https://github-readme-stats.vercel.app/api?username=Mr-the-beginner&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false"
+          alt="GitHub Stats"
+        />
+        <br />
+        <img
+          width="100%"
+          src="https://nirzak-streak-stats.vercel.app/?user=Mr-the-beginner&theme=tokyonight&hide_border=true"
+          alt="GitHub Streak"
+        />
+        <br />
+        <img
+          width="100%"
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-the-beginner&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact"
+          alt="Top Languages"
+        />
+      </td>
     </tr>
     <tr>
-      <td colspan="2" align="center"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mr-the-beginner&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" /></td>
+      <td colspan="2" align="center">
+        <img
+          src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mr-the-beginner&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+          alt="Top Languages"
+        />
+      </td>
     </tr>
   </table>
 </div>
+
+
 
 ## 🐍 Contribution Snake
 
