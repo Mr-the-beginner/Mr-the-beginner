@@ -1,16 +1,17 @@
-## Hi there 👋
+- ## 💡 A Quote:
 
-<!--
-**Mr-the-beginner/Mr-the-beginner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![A random quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
-Here are some ideas to get you started:
+## 💻 My Tech Stack:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Rust, Rust, C, JavaScript,lua](https://skillicons.dev/icons?i=bash,rust,c,js,lua)](https://skillicons.dev)
+
+## 🎮 When I'm AFK:
+
+[![Discord](https://skillicons.dev/icons?i=discord,)](https://skillicons.dev)
+![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=FFFFFF)
+
+## 🔧 My Tools :
+
+[![git, obsidian,vscode](https://skillicons.dev/icons?i=git,obsidian,vscode)](https://skillicons.dev)
+
