@@ -19,7 +19,6 @@
   <table>
     <tr>
       <td><img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mr-the-beginner&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" loading="eager" fetchpriority="high" /></td>
-      <td><img width="100%" src="https://streak-stats.demolab.com/?user=Mr-the-beginner&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" loading="eager" fetchpriority="high" /></td>
     </tr>
     <tr>
       <td colspan="2" align="center"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mr-the-beginner&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" /></td>
