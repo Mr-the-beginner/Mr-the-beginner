@@ -1,4 +1,4 @@
-## 💻 My Tech Stack:
+## 💻 My Tech Stack: 
 
 <img src="https://skillicons.dev/icons?i=js,c,rust,bash,py,lua&theme=dark" alt="skills" />
 
