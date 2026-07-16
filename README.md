@@ -1,10 +1,10 @@
 ## 💻 My Tech Stack: 
 
-<img src="https://skillicons.dev/icons?i=js,c,rust,bash,py,lua&theme=dark" alt="skills" />
+<img src="https://skillicons.dev/icons?i=js,c,cpp,css,bash,py,lua&theme=dark" alt="skills" />
 
 ## 🔧 My Tools :
 
-[![git, obsidian,vscode](https://skillicons.dev/icons?i=git,github,obsidian,vscode,linux)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=git,github,obsidian,vscode&theme=dark" alt="Tools" />
 
 ## 💡 A Quote:
 
@@ -24,12 +24,6 @@
           fetchpriority="high"
         />
       </td>
-      <td align="center">
-        <img
-          width="100%"
-          src="https://nirzak-streak-stats.vercel.app/?user=Mr-the-beginner&theme=tokyonight&hide_border=true"
-          alt="GitHub Streak"
-        />
     </tr>
     <tr>
       <td colspan="2" align="center">
