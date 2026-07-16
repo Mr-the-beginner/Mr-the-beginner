@@ -7,8 +7,11 @@
 <img src="https://skillicons.dev/icons?i=git,github,obsidian,vscode&theme=dark" alt="Tools" />
 
 ## 💡 A Quote:
-
-[![A random quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+<div align="center">
+  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Quote">
+  </a>
+</div>
 
 ## 📊 GitHub Stats
 
